@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#0c0913] text-white
+}
+
+p {
+  @apply text-sm opacity-80
+}
